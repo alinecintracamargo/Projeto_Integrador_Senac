@@ -12,7 +12,7 @@ De acordo com as orientações do projeto, os protótipos devem conter as seguin
 
 - **Cadastro de Pessoa Física**  
 - **Cadastro de Pessoa Jurídica**  
-- **Cadastro de Professores**    
+- **Cadastro de Professores**  
 - **Cadastro de Alunos**  
 
 As interfaces foram projetadas considerando os **diagramas de caso de uso** e as melhores práticas de desenvolvimento, promovendo clareza e usabilidade para os usuários finais.  
@@ -23,5 +23,25 @@ Para um(a) desenvolvedor(a) ou engenheiro(a) de software, o uso de **diagramas U
 
 ---
 
-> Este repositório será atualizado com os arquivos e exemplos de protótipos desenvolvidos ao longo do projeto.  
-> **Contribuições e sugestões são bem-vindas!** 😊
+## 🖼️ Protótipos e Modelagens  
+
+### 1. Protótipação Baixo Nível  
+![Protótipação Baixo Nível](Protipação%20Baixo%20nível.png)  
+
+### 2. Protótipação Aluno  
+![Protótipação Aluno](Aluno.png)  
+
+### 3. Protótipação Professor  
+![Protótipação Professor](Professor.png)  
+
+### 4. Protótipação Pessoa Física  
+![Protótipação Pessoa Física](Pessoa%20Física.png)  
+
+### 5. Protótipação Pessoa Jurídica  
+![Protótipação Pessoa Jurídica](Pessoa%20Jurídica.png)  
+
+### 6. Diagrama de Caso de Uso  
+![Diagrama de Caso de Uso](Documentação/Diagrama%20de%20Caso%20de%20Uso.png)  
+
+### 7. Classe UML  
+![Classe UML](Documentação/Classe%20UML.png)  

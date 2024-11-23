@@ -12,8 +12,7 @@ De acordo com as orientações do projeto, os protótipos devem conter as seguin
 
 - **Cadastro de Pessoa Física**  
 - **Cadastro de Pessoa Jurídica**  
-- **Cadastro de Professores**  
-- **Cadastro de Fornecedores**  
+- **Cadastro de Professores**    
 - **Cadastro de Alunos**  
 
 As interfaces foram projetadas considerando os **diagramas de caso de uso** e as melhores práticas de desenvolvimento, promovendo clareza e usabilidade para os usuários finais.  
